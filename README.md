@@ -1,0 +1,5 @@
+- Download and Install Phantomjs driver: http://phantomjs.org/download.html
+- Extract executable file into /data/phantomjs/bin/phantomjs
+- Clone this project with any IDE.
+- Run Bootstrap class
+- Check result in data/export folder.
